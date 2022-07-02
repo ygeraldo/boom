@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main
+{
+
+	int choixMenu
+	
+	printf(=== Menu ===);
+	printf("Royal Cheese;)
+	printf("Mc Deluxe");
+	printf("Mc Bacon");
+	printf("Big Mac");
